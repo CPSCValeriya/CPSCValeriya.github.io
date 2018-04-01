@@ -1,0 +1,272 @@
+
+h1
+{
+	color:pink;
+font-family: 'Old Standard TT', serif;
+	font-size:50px;
+	text-decoration:underline;
+}
+.h2{
+	color: pink;
+}
+.enter1{
+	background-color:FloralWhite;
+	color:black; 
+	font-size:15px;
+	padding:20px;
+	border:10px solid darkMagenta;
+	text-decoration:none;
+
+}
+
+.enterbutton{
+	margin-top:80px;
+	
+}
+
+.white{
+	font-style: italic;
+	font-size: 26px;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: black;
+	position: relative;
+	left:  1px;
+  top: 50px;
+  border:5px solid DarkMagenta;
+  background-color:FloralWhite;
+  width:600px;
+  margin:auto;
+  margin-bottom:10px;
+  
+}
+.page
+{
+	font-size:30px;
+	color: pink;
+}
+
+body
+{
+	background-color:DarkMagenta;
+	display:inline;
+	text-align:center;
+	
+}
+.stars
+{
+	background-image: url("stars1.jpg");
+	padding-top:150px;
+	padding-bottom:150px;
+	margin-bottom:30px;
+	padding-bottom:400px;
+}
+.whitebox{background-color:rgb(223,188,232);
+width:900px;
+margin:auto;
+border: solid 10px pink;}
+
+
+.page
+{
+	background-color:FloralWhite;
+
+	width: 1200px;
+	height: 200px;
+	text-align:center;
+	margin:auto;
+	padding:20px;
+	border: 10px solid MediumOrchid;
+
+}
+
+.page1
+{
+	background-color:black;
+	width: 1100px;
+	height: 200px;
+	text-align:center;
+	margin:auto;
+	padding:20px;
+	padding-bottom:100px;
+	border: 1px solid MediumOrchid;
+	}
+.info
+{	margin-top:100px;
+padding-top:20px;
+padding-bottom:20px;
+width:500px;
+margin:auto;
+background-color:FloralWhite;
+margin-bottom:20px;
+border:solid 5px pink;
+}
+.page1
+{
+	font-size:30px;
+	color: pink;
+}
+.info button
+{font-size:20px}
+.info
+{
+	font-size:17px;
+}
+.end
+{
+	background-color:FloralWhite;
+	padding-bottom:20px;
+	padding-top:20px;
+	/*	border: 10px solid MediumOrchid; */
+		width: 820px;
+		margin:auto;
+	/*	border-bottom:20px solid GhostWhite; */
+
+}
+.endinfo
+{
+	background-color:FloralWhite;
+}
+.endinfo
+{
+	font-size:25px;
+}
+canvas
+{
+	border-bottom:10px dotted MediumOrchid;
+}
+.buttonH
+{
+	font-size:30px;
+	font-family: 'Old Standard TT', serif;
+	background-color:FloralWhite;
+	border: 7px solid DarkMagenta;
+	margin:auto;
+	text-align:auto;
+	width:500px;
+	color:white;
+	padding-top:10px;
+	padding-bottom:10px;
+
+
+}
+.purpleborder
+{
+	border:30px solid DarkMagenta;
+	margin:auto;
+	width:910px;
+}
+#button {
+	float: right;
+	position: absolute;
+	top :  60px;
+	right: 20px;
+	color: darkMagenta;
+	border: 10px solid DarkMagenta;
+	background-color:FloralWhite;
+	padding:10px;
+	font-size:25px;
+}
+#button:hover{background-color:pink;}
+#home{
+	float: right;
+position: absolute;
+top:60px;
+left: 80px;
+font-size:25px;
+	color: darkMagenta;
+	padding:10px;
+	border: solid 10px darkMagenta;
+	background-color:FloralWhite;
+}
+#home:hover{background-color:pink;}
+
+a:hover{
+	background-color: pink;
+}
+
+
+
+.right{
+	float:left;
+	width:28.33%;
+	padding: 20px;
+	border: solid 2px white;
+	font:30px;
+	
+}
+.right select {font-size:20px;}
+
+.caret {
+	color:gray;
+}
+.check{
+	border: solid 5px black;
+	background-color: black;
+	color: red;
+
+}
+#check{font-size:20px;
+padding-top:10px;}
+#check:hover{background-color:pink}
+
+.color{
+	color: red;
+	font-size:30px;
+}
+
+#infoboxLOVE{font-size:27px;}
+#infoboxGAME{font-size:27px;}
+.dot{
+	background-color:FloralWhite;
+
+	width: 1200px;
+	height: 200px;
+	text-align:center;
+	margin:auto;
+	padding:20px;
+	padding-bottom:25px;
+	border: 10px solid MediumOrchid;
+}
+
+#newinfo
+{width:600px;
+margin:auto;
+background-color:LavenderBlush;
+border:3px dotted pink;
+padding:20px;}
+
+
+#yourPerson{
+	font-size:35px;
+	background-color:FloralWhite;
+	margin-bottom:20px;
+
+}
+#canvasBorder{
+	width:600px;
+	margin:auto;
+	text-align:center;
+	height:320px;
+
+}
+#yourpersonpage3{width:600px;margin:auto;text-align:center;}
+.page4
+{background-color:black;
+height:100px;
+width:1200px;
+text-align:center;
+margin:auto;
+padding-top:10px;
+padding-bottom:10px;}
+.page4 h1 
+{margin-bottom:0}
+.page4 p 
+{color:black;
+font-size:25px;
+background-color:FloralWhite;
+
+border:10px solid DarkMagenta;
+width:900px;
+margin:auto;
+margin-bottom:100px;}
